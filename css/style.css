@@ -891,6 +891,7 @@ margin-bottom: 40px;
     width: 100%;
     -webkit-transition:  all 0.5s ease;
     transition:  all 0.5s ease;
+    height: 200px;
 }
 .blog .blog-item-inner:hover .blog-img img{
     -webkit-transform: scale(1.1);
