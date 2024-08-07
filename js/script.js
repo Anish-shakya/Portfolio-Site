@@ -8,7 +8,7 @@ window.addEventListener("load",function(){
 
 /*==================typing Animation ========================== */
 var typed = new Typed(".typing",{
-    strings:["Data Analyst","Excel Analyst","Dashboard Developer","SQL Developer"],
+    strings:["Data Analyst", "Business Intelligence Analyst",],
     typeSpeed:100,
     BackSpeed:60,
     loop:true
