@@ -13,9 +13,7 @@ function setActiveStyle(color){
     }
 }
 
-
 // body skin
-
  const bodySkin = document.querySelectorAll(".body-skin"),
         totalBodySkin = bodySkin.length;
 
